@@ -1,4 +1,5 @@
 import { Component, OnInit, Input, HostBinding } from '@angular/core';
+
 import { Product } from '../product.model';
 
 @Component({
